@@ -1,6 +1,6 @@
 # ConceptMapsSummaries
 
-Anonymised Code for Paper submitted to ESWC - Research Track
+ Code for Paper submitted to LDK 2025
 
 ## Quick Start 
 
