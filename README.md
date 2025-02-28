@@ -4,6 +4,10 @@
 
 ## Quick Start 
 
+## Dataset
+
+The dataset used is available in the dat_WIKI.zip file. Although the authors are not the dataset's owners, we have received permission from the owner to upload it to our GitHub page. For more details, please contact the owner: Falke, T. (2019). Automatic Structured Text Summarization with Concept Maps
+
 ## Set Up Virtual Environment
 
 (All scripts are run from the root directory of this repository)
